@@ -4,9 +4,9 @@ This is a repository containing notebooks and machine learning models using the 
 ## Instructions
 I would highly recommend using VSCode to experiment with these notebooks should one choose to do so. Download here: https://code.visualstudio.com/download<br>
 These extensions are also MAD useful: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter<br>
-These instructions assume that one has "pip" installed on their pc. If that is not the case, see the following link for instructions on how to install pip: https://pip.pypa.io/en/stable/installation/<br>
 I'm also going to assume you have Python installed:
 https://www.python.org/downloads/<br>
+These instructions assume that one has "pip" installed on their pc. If that is not the case, see the following link for instructions on how to install pip: https://pip.pypa.io/en/stable/installation/<br>
 Finally, I'm assuming you have "git" installed:
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git<br>
 To run these notebooks, perform the following tasks, which will include cloning this repository and creating a Python virtual environment containing the necessary libraries:
